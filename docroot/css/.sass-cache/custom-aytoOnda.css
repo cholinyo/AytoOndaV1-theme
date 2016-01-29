@@ -1,0 +1,26 @@
+.aui #navigation .navbar-inner {
+  background: none repeat scroll 0 0 #002e63;
+  border-width: 0;
+  min-height: 36px; }
+
+.aui #navigation .nav li.active > a {
+  background-color: #8096b1; }
+
+.portlet-title {
+  background: none repeat scroll 0 0 #8096b1; }
+
+.aui .lfr-hudcrumbs .breadcrumb {
+  background: none repeat scroll 0 0 #8096b1; }
+
+.dropdown-menu {
+  background: #002e63; }
+
+.aui body {
+  color: #000000;
+  font-family: Avenir;
+  font-size: 16px;
+  line-height: 20px; }
+
+.aui a {
+  color: #8096b1; }
+
